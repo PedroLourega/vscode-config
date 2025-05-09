@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Dracula Theme",
+    "editor.fontSize": 12,
+    "editor.wordWrap": "on",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "explorer.compactFolders": false
+}
