@@ -5,5 +5,6 @@
     "liveServer.settings.donotShowInfoMsg": true,
     "explorer.confirmDragAndDrop": false,
     "explorer.confirmDelete": false,
-    "explorer.compactFolders": false
+    "explorer.compactFolders": false,
+    "code-runner.runInTerminal": true
 }
